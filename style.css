@@ -1,0 +1,23 @@
+.notification-icon {
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+  }
+  
+  .notification-badge {
+    position: absolute;
+    top: -5px;
+    right: -8px;
+    padding: 1px 6px;
+    border-radius: 50%;
+    background-color: rgb(175, 3, 3);
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .notification-icon i {
+    font-size: 24px;
+    color: #333;
+  }
+  
